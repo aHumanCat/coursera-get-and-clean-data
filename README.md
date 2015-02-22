@@ -6,7 +6,7 @@
 
 This repo contains the data processing script and Codebook for the course project.
 
-
+#### Processing Intructions
 #### Data processing script:
 `run_analysis.R` is a self-contained script that will download the  
 required data Archive, process the needed files  
