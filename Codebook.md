@@ -21,10 +21,10 @@ Ex. tBodyAcc-std()-Y.
 
 The end dataset format will be of the following layout
 
-| Subjects      | Activities    |  tBodyAcc-std()-Y  |  65 More   |  
-| :------------:|:-------------:| :----------------: |: ---------:|  
-| 1             |  Walking      | 0.2773308          | xxxxxxxxxx |  
-
+| Subjects      | Activities    |  tBodyAcc-std()-Y  |  65 More  |  
+| :------------:|:-------------:| :----------------: |: --------:|  
+| 1             |  Walking      | 0.2773308          | xxxxxx    |  
+ 
    
   
 
